@@ -1,2 +1,5 @@
 # SudokuSolver
-JavaScript animated Sudoku solver
+I made this web app during the lockdown in Jully, I decided on this project as I had just finished part of another web app that visualises sorting algorithms. I had reached a roadblock in the development of this app when it came to trying to visualise the recursive quicksort algorithm I had created. I then remembered that in Janurary when first learning about recursion I had created a recursive backtracking algorithm for solving sodoku in pyton, it was a very simple program that only solved a two dimensional array however I decided to recreate it with javascript to that I could get more experience with javascript animation before having another go at the quick sort algorithm.
+
+I am very happy with how this web app has turned out, a major part of this project was gaining a deeper understanding of how asychronous code works in javascript, it is very different to python as there is no sleep(5) function you have to employ await and async functions. This was really interesting, the final project only has two saved sudoku boards and if I was developing this for comersial use instead of just to learn about recursion and js then I would have added features for users to add their own sudoku borads to solve. 
+This project also gave me good practive for object oriented programming within js.
